@@ -2,5 +2,3 @@
 ## Aybars Mirze
 ## Fırat Deniz Şimşek
 ## Ahmet Çalık
-
-***DENEME***
